@@ -3,7 +3,7 @@ from matplotlib import pyplot as plt
 
 
 
-#orimage= cv2.imread("P:\Programs\Pycharm\pythonProject\histogram\d1-c1-003.jpg", 1)
+#orimage= cv2.imread("histogram\d1-c1-003.jpg", 1)
 #img = cv2.resize(orimage, (500,500)) #resize if needed
 
 # read an image
